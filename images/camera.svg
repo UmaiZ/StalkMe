@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="150" viewBox="0 0 150 150">
+  <g id="Profile_Picture" data-name="Profile Picture" transform="translate(-139 -195)">
+    <g id="BG" transform="translate(139 195)" fill="#fff" stroke="#666" stroke-width="1">
+      <circle cx="75" cy="75" r="75" stroke="none"/>
+      <circle cx="75" cy="75" r="74.5" fill="none"/>
+    </g>
+    <g id="camera" transform="translate(187.386 246.043)">
+      <path id="Path_1" data-name="Path 1" d="M52.228,40.257a4.657,4.657,0,0,1-4.657,4.657H5.657A4.657,4.657,0,0,1,1,40.257V14.643A4.657,4.657,0,0,1,5.657,9.986h9.314L19.628,3H33.6l4.657,6.986h9.314a4.657,4.657,0,0,1,4.657,4.657Z" transform="translate(0 0)" fill="none" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="9" cy="9.5" rx="9" ry="9.5" transform="translate(17.614 16.957)" fill="none" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>
